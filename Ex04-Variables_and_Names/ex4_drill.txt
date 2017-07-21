@@ -1,0 +1,4 @@
+1. It is necessary. If it's just 4, the value of average_passengers_per_car would be converted to a whole number so the people transported would be less than the total people.
+2. "Floating point" number means the decimal point of a number could "float". I means the position of the floating point depends on the value of exponent.
+3. Done in ex4.py
+6. In file ex4_drill6.py
