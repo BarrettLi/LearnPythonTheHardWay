@@ -1,6 +1,5 @@
 # LearnPythonTheHardWay
 Practice in the book, Learn Python the Hard Way
-<<<<<<< HEAD
 =======
 - Ex1 July 17, 2017
 - Ex2 July 17, 2017
@@ -17,4 +16,4 @@ Practice in the book, Learn Python the Hard Way
 - Ex13 July 20, 2017
 - Ex14 July 20, 2017
 - Ex15 July 20, 2017
->>>>>>> 279fb9fc2ae5718826d2805cbaa58b5c231282ce
+- Ex16 July 21, 2017
