@@ -26,3 +26,10 @@ Practice in the book, Learn Python the Hard Way
 - Ex25 July 23, 2017
 - Ex26 July 23, 2017
 - Ex28 July 23, 2017
+- Ex29 July 24, 2017
+- Ex30 July 24, 2017
+- Ex31 July 24, 2017
+- Ex32 July 24, 2017
+- Ex33 July 24, 2017
+- Ex34 July 24, 2017
+- Ex35 July 24, 2017
