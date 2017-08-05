@@ -37,3 +37,4 @@ Practice in the book, Learn Python the Hard Way
 - Ex39 July 24, 2017
 - Ex40 July 24, 2017
 - Ex41 July 24, 2017
+- Ex42 July 24, 2017
