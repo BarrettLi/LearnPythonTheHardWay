@@ -45,3 +45,4 @@ Practice in the book, Learn Python the Hard Way
 - Ex48 August 5, 2017
 - Ex49 August 6, 2017
 - Ex50 August 7, 2017
+- Ex51 August 8, 2017
